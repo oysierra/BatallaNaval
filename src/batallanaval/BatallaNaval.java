@@ -17,13 +17,8 @@ public class BatallaNaval {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hola mundo");
-        System.out.println("Haciendo prueba");
-        System.out.println("Otro mensaje para ver el commit");
-        System.out.println("Otro mensaje para ver el commit");
-        System.out.println("un tercer mensaje de prueba");
-        System.out.println("Creando una en gitkraken");
-        System.out.println("Creando una en gitkraken");
+        System.out.println("Dejandolo Nuevo");
+        
     }
     
 }
