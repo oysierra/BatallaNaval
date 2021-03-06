@@ -23,6 +23,7 @@ public class BatallaNaval {
         System.out.println("Otro mensaje para ver el commit");
         System.out.println("un tercer mensaje de prueba");
         System.out.println("Creando una en gitkraken");
+        System.out.println("Creando una en gitkraken");
     }
     
 }
