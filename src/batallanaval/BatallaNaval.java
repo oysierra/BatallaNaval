@@ -18,6 +18,7 @@ public class BatallaNaval {
         // TODO code application logic here
         
         System.out.println("Hola mundo");
+        System.out.println("Haciendo prueba");
     }
     
 }
