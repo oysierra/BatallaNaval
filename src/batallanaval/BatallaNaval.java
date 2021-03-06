@@ -20,6 +20,7 @@ public class BatallaNaval {
         System.out.println("Hola mundo");
         System.out.println("Haciendo prueba");
         System.out.println("Otro mensaje para ver el commit");
+        System.out.println("Otro mensaje para ver el commit");
     }
     
 }
